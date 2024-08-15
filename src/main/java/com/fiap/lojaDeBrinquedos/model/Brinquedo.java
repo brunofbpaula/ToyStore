@@ -12,7 +12,6 @@ import lombok.NoArgsConstructor;
 public class Brinquedo {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    @JsonIgnore
     private Long id;
     private String nome;
     private String tipo;
