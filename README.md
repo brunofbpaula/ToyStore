@@ -1,9 +1,8 @@
 ### Equipe de desenvolvedores:
-Bruno de Paula (RM552226)
-Kayque Lima (RM550782)
-Gabriel Francisco (RM99708)
-Gabriel França (RM551905)
-Edward de Lima (RM98676)
+Bruno de Paula (RM552226), Kayque Lima (RM550782), Gabriel Francisco (RM99708), Gabriel França (RM551905) e Edward de Lima (RM98676).
+
+### Deploy da Aplicação:
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](http://ec2-34-236-149-136.compute-1.amazonaws.com:8080/api/swagger-ui/swagger-ui/index.html#/)
 
 ## Como Rodar a Aplicação:
 
